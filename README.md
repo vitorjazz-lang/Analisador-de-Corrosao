@@ -19,14 +19,6 @@ O **Analisador de Corrosão** foi desenvolvido no contexto de pesquisa científi
 
 ---
 
-## 📸 Demonstração
-
-> *(Dica: Salve uma imagem comparativa ou print da interface com o overlay de corrosão como `preview.png` dentro da pasta `assets/` para exibi-la aqui!)*
-
-![Análise de Corrosão e Overlay](assets/preview.png)
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python 3.x**
